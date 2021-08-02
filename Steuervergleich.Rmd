@@ -42,7 +42,7 @@ Um den Steuervergleich zu berechnen, wurden folgende Paramteter verwendet:
 * Bruttoeinkommen 2. Person: CHF 15'600 (20% der 1. Person)
 * Reinvermögen: CHF 185'000 (Durchschnittsvermögen)
 
-## Durchschnitt
+## Mittelwert
 
 ```{r}
 mean_steuern <- mean(steuern$Total.Steuern)
